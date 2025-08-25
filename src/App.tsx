@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// App.tsx
+import React, { useState } from "react";
+import NamesForm from "./components/NamesForm";
+import Preview from "./components/Preview";
 
-function App() {
+export interface NamesData {
+  groomName: string;
+  groomFather: string;
+  groomYeshiva: string;
+  groomCity: string;
+  brideName: string;
+  brideFather: string;
+  brideSeminar: string;
+  brideCity: string;
+  date: string;
+}
+
+const App: React.FC = () => {
+  const [names, setNames] = useState<NamesData>({
+    groomName: "",
+    groomFather: "",
+    groomYeshiva: "",
+    groomCity: "",
+    brideName: "",
+    brideFather: "",
+    brideSeminar: "",
+    brideCity: "",
+    date: "",
+  });
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ padding: "2rem", fontFamily: "Arial, sans-serif",direction:'rtl' }}>
+      <h1>טופס שלט מאורסים</h1>
+      <NamesForm names={names} setNames={setNames} />
+      <Preview names={names} />
     </div>
   );
-}
+};
 
 export default App;
