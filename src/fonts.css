@@ -1,0 +1,1239 @@
+
+@font-face {
+  font-family: 'AFEK-BLACK-AAA.OTF';
+  src: url('/fonts/AFEK-BLACK-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-BOLD-AAA.OTF';
+  src: url('/fonts/AFEK-BOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-BOLD-AAA_0.OTF';
+  src: url('/fonts/AFEK-BOLD-AAA_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-DEMIBOLD-AAA.OTF';
+  src: url('/fonts/AFEK-DEMIBOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-DEMIBOLD-AAA_0.OTF';
+  src: url('/fonts/AFEK-DEMIBOLD-AAA_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-LIGHT-AAA.OTF';
+  src: url('/fonts/AFEK-LIGHT-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-LIGHT-AAA_0.OTF';
+  src: url('/fonts/AFEK-LIGHT-AAA_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-MEDIUM-AAA.OTF';
+  src: url('/fonts/AFEK-MEDIUM-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-MEDIUM-AAA_0.OTF';
+  src: url('/fonts/AFEK-MEDIUM-AAA_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-REGULAR-AAA.OTF';
+  src: url('/fonts/AFEK-REGULAR-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-REGULAR-AAA_0.OTF';
+  src: url('/fonts/AFEK-REGULAR-AAA_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-ULTRABOLD-AAA.OTF';
+  src: url('/fonts/AFEK-ULTRABOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-ULTRABOLD-AAA_0.OTF';
+  src: url('/fonts/AFEK-ULTRABOLD-AAA_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-ULTRALIGHT-AAA.OTF';
+  src: url('/fonts/AFEK-ULTRALIGHT-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AFEK-ULTRALIGHT-AAA_0.OTF';
+  src: url('/fonts/AFEK-ULTRALIGHT-AAA_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA FRANKNATAN ARTEXT.OTF';
+  src: url('/fonts/BA FRANKNATAN ARTEXT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA FRANKNATAN BOLD.OTF';
+  src: url('/fonts/BA FRANKNATAN BOLD.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA FRANKNATAN EXTRA-BOLD.OTF';
+  src: url('/fonts/BA FRANKNATAN EXTRA-BOLD.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA FRANKNATAN LIGHT.OTF';
+  src: url('/fonts/BA FRANKNATAN LIGHT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA FRANKNATAN TIFARA.OTF';
+  src: url('/fonts/BA FRANKNATAN TIFARA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-ARTEXT-II.OTF';
+  src: url('/fonts/BA-FRANKNATAN-ARTEXT-II.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-ATARA.OTF';
+  src: url('/fonts/BA-FRANKNATAN-ATARA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-CRACKTEXT.OTF';
+  src: url('/fonts/BA-FRANKNATAN-CRACKTEXT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-DECOR.OTF';
+  src: url('/fonts/BA-FRANKNATAN-DECOR.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-EXTRA-LIGHT.OTF';
+  src: url('/fonts/BA-FRANKNATAN-EXTRA-LIGHT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-OLD-BLUR-II.OTF';
+  src: url('/fonts/BA-FRANKNATAN-OLD-BLUR-II.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-OLD-BLUR.OTF';
+  src: url('/fonts/BA-FRANKNATAN-OLD-BLUR.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-POINTEXT.OTF';
+  src: url('/fonts/BA-FRANKNATAN-POINTEXT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-REGULAR.OTF';
+  src: url('/fonts/BA-FRANKNATAN-REGULAR.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-ROLLTEXT.OTF';
+  src: url('/fonts/BA-FRANKNATAN-ROLLTEXT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BA-FRANKNATAN-TRACHTEXT.OTF';
+  src: url('/fonts/BA-FRANKNATAN-TRACHTEXT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BENCHMARK-REGULAR-FM.OTF';
+  src: url('/fonts/BENCHMARK-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'buNotza1.4-Brush';
+  src: url('/fonts/BUNOTZA1.4-BRUSH.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'buNotza1.4-Regular';
+  src: url('/fonts/BUNOTZA1.4-REGULAR.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'DIDA-REGULAR-FM (1).OTF';
+  src: url('/fonts/DIDA-REGULAR-FM (1).OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'EGOZIM-REGULAR-FM.OTF';
+  src: url('/fonts/EGOZIM-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ESHKOLITA-REGULAR-FM.OTF';
+  src: url('/fonts/ESHKOLITA-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FBBAZNAT-BLACK.OTF';
+  src: url('/fonts/FBBAZNAT-BLACK.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FBBAZNAT-BOLD.OTF';
+  src: url('/fonts/FBBAZNAT-BOLD.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FBBAZNAT-LIGHT.OTF';
+  src: url('/fonts/FBBAZNAT-LIGHT.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FBBAZNAT-REGULAR.OTF';
+  src: url('/fonts/FBBAZNAT-REGULAR.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FLAMINGO-BOLD-FM.OTF';
+  src: url('/fonts/FLAMINGO-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FLAMINGO-MEDIUM-FM.OTF';
+  src: url('/fonts/FLAMINGO-MEDIUM-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FLAMINGO-REGULAR-FM.OTF';
+  src: url('/fonts/FLAMINGO-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FLAMINGO-REGULAR-FM_0.OTF';
+  src: url('/fonts/FLAMINGO-REGULAR-FM_0.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GARMOSHKA-BLACK-FM.OTF';
+  src: url('/fonts/GARMOSHKA-BLACK-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GINGER-REGULAR-FM.OTF';
+  src: url('/fonts/GINGER-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HABIBI-REGULAR-FM.OTF';
+  src: url('/fonts/HABIBI-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HAIM-CLASSIC-BLACK-FM.OTF';
+  src: url('/fonts/HAIM-CLASSIC-BLACK-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HAIM-CLASSIC-BOLD-FM.OTF';
+  src: url('/fonts/HAIM-CLASSIC-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HAIM-CLASSIC-LIGHT-FM.OTF';
+  src: url('/fonts/HAIM-CLASSIC-LIGHT-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HAIM-CLASSIC-REGULAR-FM.OTF';
+  src: url('/fonts/HAIM-CLASSIC-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HAIM-GRUNGE-BLACK-FM.OTF';
+  src: url('/fonts/HAIM-GRUNGE-BLACK-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HAUSER-REGULAR-FM.OTF';
+  src: url('/fonts/HAUSER-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ICONIMONIM-REGULAR-FM.OTF';
+  src: url('/fonts/ICONIMONIM-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ITSTRUBAL-BOLD-FM.OTF';
+  src: url('/fonts/ITSTRUBAL-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ITSTRUBAL-DEMIBOLD-FM.OTF';
+  src: url('/fonts/ITSTRUBAL-DEMIBOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ITSTRUBAL-HALUL-FM.OTF';
+  src: url('/fonts/ITSTRUBAL-HALUL-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'KALPION-ICONS-FM.OTF';
+  src: url('/fonts/KALPION-ICONS-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'KALPION-OUTLINE-FM.OTF';
+  src: url('/fonts/KALPION-OUTLINE-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'KALPION-REGULAR-FM.OTF';
+  src: url('/fonts/KALPION-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'KLUGMAN-REGULAR-FM.OTF';
+  src: url('/fonts/KLUGMAN-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'KRISPER-BOLD-FM.OTF';
+  src: url('/fonts/KRISPER-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'KRISPER-EMBOSS-FM.OTF';
+  src: url('/fonts/KRISPER-EMBOSS-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'KRISPER-WIREFRAME-FM.OTF';
+  src: url('/fonts/KRISPER-WIREFRAME-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MAURITIUS-REGULAR-FM.OTF';
+  src: url('/fonts/MAURITIUS-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MIXTAPE-BOLD-FM.OTF';
+  src: url('/fonts/MIXTAPE-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MIXTAPE-ICONS-FM.OTF';
+  src: url('/fonts/MIXTAPE-ICONS-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MIXTAPE-REGULAR-FM.OTF';
+  src: url('/fonts/MIXTAPE-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MOTALEH-BOLD-FM.OTF';
+  src: url('/fonts/MOTALEH-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MUSEUM-LIGHT-FM.OTF';
+  src: url('/fonts/MUSEUM-LIGHT-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MUSEUM-REGULAR-FM.OTF';
+  src: url('/fonts/MUSEUM-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MUSEUM-ULTRABOLD-FM.OTF';
+  src: url('/fonts/MUSEUM-ULTRABOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OBEGE-REGULAR-FM.OTF';
+  src: url('/fonts/OBEGE-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OMES-BOLD-FM.OTF';
+  src: url('/fonts/OMES-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OMES-DEMIBOLD-FM.OTF';
+  src: url('/fonts/OMES-DEMIBOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OMES-REGULAR-FM.OTF';
+  src: url('/fonts/OMES-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OMES-ROUNDED-FM.OTF';
+  src: url('/fonts/OMES-ROUNDED-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OMES-STENCIL-FM.OTF';
+  src: url('/fonts/OMES-STENCIL-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ORON-TZAR-BOLD-FM.OTF';
+  src: url('/fonts/ORON-TZAR-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ORON-TZAR-DEMIBOLD-FM.OTF';
+  src: url('/fonts/ORON-TZAR-DEMIBOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ORON-TZAR-LIGHT-FM.OTF';
+  src: url('/fonts/ORON-TZAR-LIGHT-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ORON-TZAR-REGULAR-FM.OTF';
+  src: url('/fonts/ORON-TZAR-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-LIGHT-FM.OTF';
+  src: url('/fonts/OSCAR-LIGHT-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-REGULAR-FM.OTF';
+  src: url('/fonts/OSCAR-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-ROUND-FM.OTF';
+  src: url('/fonts/OSCAR-ROUND-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-STENCIL-FM.OTF';
+  src: url('/fonts/OSCAR-STENCIL-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-TZAR-BOLD-FM.OTF';
+  src: url('/fonts/OSCAR-TZAR-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-TZAR-LIGHT-FM.OTF';
+  src: url('/fonts/OSCAR-TZAR-LIGHT-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-TZAR-MEDIUM-FM.OTF';
+  src: url('/fonts/OSCAR-TZAR-MEDIUM-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OSCAR-TZAR-REGULAR-FM.OTF';
+  src: url('/fonts/OSCAR-TZAR-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PARSHENDATA-REGULAR-FM.OTF';
+  src: url('/fonts/PARSHENDATA-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLACEBO-BOLD-FM.OTF';
+  src: url('/fonts/PLACEBO-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLACEBO-REGULAR-FM.OTF';
+  src: url('/fonts/PLACEBO-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-BLACK-AAA.OTF';
+  src: url('/fonts/PLONI-BLACK-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-BOLD-AAA.OTF';
+  src: url('/fonts/PLONI-BOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-DEMIBOLD-AAA.OTF';
+  src: url('/fonts/PLONI-DEMIBOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-LIGHT-AAA.OTF';
+  src: url('/fonts/PLONI-LIGHT-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-MEDIUM-AAA.OTF';
+  src: url('/fonts/PLONI-MEDIUM-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-REGULAR-AAA.OTF';
+  src: url('/fonts/PLONI-REGULAR-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-ULTRABOLD-AAA.OTF';
+  src: url('/fonts/PLONI-ULTRABOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-ULTRALIGHT-AAA.OTF';
+  src: url('/fonts/PLONI-ULTRALIGHT-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-BLACK-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-BLACK-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-BOLD-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-BOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-DEMIBOLD-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-DEMIBOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-LIGHT-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-LIGHT-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-MEDIUM-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-MEDIUM-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-REGULAR-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-REGULAR-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-ULTRABOLD-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-ULTRABOLD-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'PLONI-YAD-ULTRALIGHT-AAA.OTF';
+  src: url('/fonts/PLONI-YAD-ULTRALIGHT-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RAGSANS-1.4-BOLD.OTF';
+  src: url('/fonts/RAGSANS-1.4-BOLD.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RAGSANS-1.4-MEDIUM.OTF';
+  src: url('/fonts/RAGSANS-1.4-MEDIUM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RAGSANS-1.4-REGULAR.OTF';
+  src: url('/fonts/RAGSANS-1.4-REGULAR.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RAKIA-BOLD-FM.OTF';
+  src: url('/fonts/RAKIA-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RAVITZKY-BOLD-FM.OTF';
+  src: url('/fonts/RAVITZKY-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RETREAT-REGULAR-FM.OTF';
+  src: url('/fonts/RETREAT-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RIVKABAU-BOLD-FM.OTF';
+  src: url('/fonts/RIVKABAU-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RIVKABAU-REGULAR-FM.OTF';
+  src: url('/fonts/RIVKABAU-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'RUGATKA-BOLD-FM.OTF';
+  src: url('/fonts/RUGATKA-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SAPIR-CLASSIC-BOLD-FM.OTF';
+  src: url('/fonts/SAPIR-CLASSIC-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SAPIR-CLASSIC-DEMIBOLD-FM.OTF';
+  src: url('/fonts/SAPIR-CLASSIC-DEMIBOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SAPIR-CLASSIC-LIGHT-FM.OTF';
+  src: url('/fonts/SAPIR-CLASSIC-LIGHT-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SAPIR-CLASSIC-REGULAR-FM.OTF';
+  src: url('/fonts/SAPIR-CLASSIC-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SHAVIS-REGULAR-FM.OTF';
+  src: url('/fonts/SHAVIS-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SHESEK-DASHED-FM.OTF';
+  src: url('/fonts/SHESEK-DASHED-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SHESEK-REGULAR-FM.OTF';
+  src: url('/fonts/SHESEK-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SHIRBUSHKA-REGULAR-FM.OTF';
+  src: url('/fonts/SHIRBUSHKA-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SHLUK-REGULAR-AAA.OTF';
+  src: url('/fonts/SHLUK-REGULAR-AAA.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SHPAGAT-BOLD-FM.OTF';
+  src: url('/fonts/SHPAGAT-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SOFI-SANS-BLACK-FM.OTF';
+  src: url('/fonts/SOFI-SANS-BLACK-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SOFI-SERIF-BLACK-FM.OTF';
+  src: url('/fonts/SOFI-SERIF-BLACK-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SOLOMON-BOLD-NATUI-FM.OTF';
+  src: url('/fonts/SOLOMON-BOLD-NATUI-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SPECTRUM-EMBOSS-FM.OTF';
+  src: url('/fonts/SPECTRUM-EMBOSS-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SPECTRUM-INNERLINE-FM.OTF';
+  src: url('/fonts/SPECTRUM-INNERLINE-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SPECTRUM-OUTLINE-FM.OTF';
+  src: url('/fonts/SPECTRUM-OUTLINE-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SPECTRUM-REGULAR-FM.OTF';
+  src: url('/fonts/SPECTRUM-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SPECTRUM-SHADOW-FM.OTF';
+  src: url('/fonts/SPECTRUM-SHADOW-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SPECTRUM-WIREFRAME2-FM.OTF';
+  src: url('/fonts/SPECTRUM-WIREFRAME2-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SWIGLY-REGULAR-FM.OTF';
+  src: url('/fonts/SWIGLY-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SZYK-REGULAR-FM.OTF';
+  src: url('/fonts/SZYK-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TALIZMAN-BOLD-FM.OTF';
+  src: url('/fonts/TALIZMAN-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TALIZMAN-LIGHT-FM.OTF';
+  src: url('/fonts/TALIZMAN-LIGHT-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TALIZMAN-REGULAR-FM.OTF';
+  src: url('/fonts/TALIZMAN-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TEOM-BOLD-FM.OTF';
+  src: url('/fonts/TEOM-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TEOM-REGULAR-FM.OTF';
+  src: url('/fonts/TEOM-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TOLITON-REGULAR-FM.OTF';
+  src: url('/fonts/TOLITON-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TRABELSI-OUTLINE-FM.OTF';
+  src: url('/fonts/TRABELSI-OUTLINE-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TRABELSI-REGULAR-FM.OTF';
+  src: url('/fonts/TRABELSI-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TZIFLON-REGULAR-FM.OTF';
+  src: url('/fonts/TZIFLON-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'VARELA-EXTRA-REGULAR-FM.OTF';
+  src: url('/fonts/VARELA-EXTRA-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'YIDDISHKEIT-BLACK-FM.OTF';
+  src: url('/fonts/YIDDISHKEIT-BLACK-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'YIDDISHKEIT-BOLD-FM.OTF';
+  src: url('/fonts/YIDDISHKEIT-BOLD-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'YIDDISHKEIT-REGULAR-FM.OTF';
+  src: url('/fonts/YIDDISHKEIT-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ZVULUN-BLACK-FM.OTF';
+  src: url('/fonts/ZVULUN-BLACK-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ZVULUN-REGULAR-FM.OTF';
+  src: url('/fonts/ZVULUN-REGULAR-FM.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
